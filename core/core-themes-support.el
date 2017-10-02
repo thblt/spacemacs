@@ -115,6 +115,8 @@
     (base16-unikitty-dark             . base16-theme)
     (base16-unikitty-light            . base16-theme)
     (base16-woodland                  . base16-theme)
+    (eziam-dark                       . eziam-theme)
+    (eziam-light                      . eziam-theme)
     (sanityinc-solarized-dark         . color-theme-sanityinc-solarized)
     (sanityinc-solarized-light        . color-theme-sanityinc-solarized)
     (sanityinc-tomorrow-blue          . color-theme-sanityinc-tomorrow)
